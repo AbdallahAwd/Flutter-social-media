@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272551971114",
+    "project_id": "social-app-93afe",
+    "storage_bucket": "social-app-93afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272551971114:android:f4958020cd043eef85b653",
+        "android_client_info": {
+          "package_name": "com.learning.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272551971114-n1vibtvg7u32t0foer6t7n3m7j3t3d09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC5dHT-WLWKc8_vmR9Yq-5ElpOo32ePC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272551971114-n1vibtvg7u32t0foer6t7n3m7j3t3d09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
